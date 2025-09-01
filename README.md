@@ -45,14 +45,14 @@ This work ensures Rocket.Chat mobile apps are **easier to test, faster to releas
 ---
 
 ### 🔹 CI/CD Release Automation  
-| PR | Description |
-|----|-------------|
-| [#6418](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6418) | Migrate lint and Jest testing from CircleCI → GitHub Actions |
-| [#6447](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6447) | Build and release automation using GitHub Actions |
-| [#6495](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6495) | Improvements to GitHub build actions |
-| [#6517](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6517) | Fix iOS build and version issues |
-| [#6571](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6571) | Improved build version logic with repo variables |
-| [#6577](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6577) | Optimized iOS build by configuring Fastlane for GitHub Action environment |
+| PR | Status | Description |
+|----|--------|-------------|
+| [#6418](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6418) | ✅ Merged | Migrate lint and Jest testing from CircleCI → GitHub Actions |
+| [#6447](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6447) | ✅ Merged | Build and release automation using GitHub Actions |
+| [#6495](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6495) | ✅ Merged | Improvements to GitHub build actions |
+| [#6517](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6517) | ✅ Merged | Fix iOS build and version issues |
+| [#6571](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6571) | ✅ Merged | Improved build version logic with repo variables |
+| [#6577](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6577) | ✅ Merged | Optimized iOS build by configuring Fastlane for GitHub Action environment |
 
 ---
 
